@@ -1657,6 +1657,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 12,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-bunmei1-hyakushu-waka",
   "work": "百首和歌（貞常親王）",
@@ -1669,7 +1673,7 @@
   "blocks": 12,
   "chars": 2881,
   "poems": 98,
-  "yaku": 0,
+  "yaku": 12,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T11:41:39+09:00"
